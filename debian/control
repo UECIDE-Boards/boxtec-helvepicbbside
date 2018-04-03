@@ -1,0 +1,18 @@
+Source: boxtec-helvepicbbside
+Section: boards
+Priority: extra
+XBSC-Group: Boxtec
+XBSC-Family: pic32
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: boxtec-helvepicbbside
+Architecture: all
+Section: boards
+Depends: chipkit
+XBSC-Group: Boxtec
+Description: Boxtec HelvePicBBSide
+ This board was designed by Mathias Wilhelm together with his son
+ Dominik and the kit will be made available via boxtec.ch
+
